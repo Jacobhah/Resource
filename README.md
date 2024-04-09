@@ -1,2 +1,2 @@
-# Resource
-This is an interesting project.
+## Resource
+### This is an interesting project.
